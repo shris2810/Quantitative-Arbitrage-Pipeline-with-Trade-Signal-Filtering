@@ -1,0 +1,15 @@
+{%extends 'index.html'%}
+<!--this is show that above and below content will be from base.html-->
+
+{%block content%}
+    <!--content will be bettween these-->
+    <h1>Welcome!!</h1>
+    <h2>Lets do pair trading!!</h2>
+
+     <!-- Form to trigger the data download -->
+    <form method="POST" action="{{ url_for('') }}">
+        <button id="find-pair-btn" type="submit" class="btn btn-primary mt-4">Find Pair</button>
+    </form>
+    
+    
+{% endblock %}

@@ -1,4 +1,4 @@
-# 1_data_collection.py
+
 import yfinance as yf
 import pandas as pd
 

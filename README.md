@@ -1,4 +1,4 @@
-# 📈 TwinTrade — ML-Enhanced Pairs Trading Engine
+# 📈 Quantitative Arbitrage Pipeline with Trade Signal Filtering
 
 A complete **Pairs Trading System** that uses:
 

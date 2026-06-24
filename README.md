@@ -8,8 +8,6 @@ A complete **Pairs Trading System** that uses:
 * A lightweight **ML model** to classify signals as **GOOD / BAD**
 * A fully automated pipeline that downloads data → analyzes pairs → backtests → trains ML → evaluates signals
 
-This project is ideal for **quant beginners**, **DSA/ML learners**, and **trading enthusiasts** building practical quant projects.
-
 ---
 
 # 🚀 Features
@@ -195,6 +193,3 @@ GLD - IAU: p-value = 0.0010 (Cointegrated)
 📈 2024-06-03: ENTER BUY_A_SELL_B BRK-B / BRK-A | Z-score: -2.50
 🤖 ML Model Prediction: BAD signal ❌
 ```
-
-
-Just tell me!
